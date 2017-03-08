@@ -1,0 +1,12 @@
+[submodule "w3e_nginx"]
+	path = w3e_nginx
+	url = https://github.com/dehayol/w3e_nginx
+[submodule "w3e_wordpress"]
+	path = w3e_wordpress
+	url = https://github.com/dehayol/w3e_wordpress
+[submodule "w3e_volumeManager"]
+	path = w3e_volumeManager
+	url = https://github.com/dehayol/w3e_volumeManager
+[submodule "wp_env_plugin"]
+	path = wp_env_plugin
+	url = https://github.com/dehayol/wp_env_plugin
